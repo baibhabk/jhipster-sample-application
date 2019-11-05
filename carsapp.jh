@@ -1,0 +1,6 @@
+entity Car
+{
+	make String,
+    model String,
+    price Integer
+}
